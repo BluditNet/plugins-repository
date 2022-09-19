@@ -23,13 +23,16 @@
 		"1": "",
 		"2": ""
 	},
-	"description_es": "",
+	"description_es": "Complemento que agrega una fuente de sindicación web RSS a los sitios web con tecnología Bludit.",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
+		"0": "RSS Feed 2 tiene toda la funcionalidad del complemento Bludit RSS Feed más un pequeño extra.",
+		"1": "Elemento 'copyright' agregado al elemento del canal RSS.",
+		"2": "Elemento 'language' agregado al elemento de canal RSS.",
+		"3": "Elemento 'generator' agregado al elemento del canal RSS.",
+		"4": "Elemento 'title' agregado al elemento del canal RSS.",
+		"5": "Elemento 'category' agregado al elemento del canal RSS."
 	},
-	"description_ru": "Плагин, который добавляет RSS-каналы с контентом на веб-сайты Bludit.",
+	"description_ru": "Добавляет RSS-каналы с контентом на сайт с Bludit.",
 	"features_ru": {
 		"0": "Плагин RSS Feed 2 имеет все функции плагина Bludit RSS Feed и даже немного больше.",
 		"1": "Добавлен тег элемента авторского права для записей в RSS-канале.",
